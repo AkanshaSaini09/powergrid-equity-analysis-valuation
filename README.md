@@ -1,5 +1,5 @@
 # Power Grid Corporation of India Ltd. – Equity Analysis & Business Valuation
-
+The valuation analysis triangulates PowerGrid's intrinsic value using DDM, DCF, EVA, FCFF, H-Model and Relative Valuation.
 ## Project Overview
 
 This project presents a comprehensive equity analysis and business valuation of Power Grid Corporation of India Ltd. The analysis evaluates the company's financial performance, industry position, business fundamentals, intrinsic value and investment attractiveness.
